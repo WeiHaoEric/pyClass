@@ -14,6 +14,9 @@
 - chap3: [特性名稱空間](https://openhome.cc/Gossip/Python/PropertyNameSpace.html)
 - chap4: [特殊方法名稱](https://openhome.cc/Gossip/Python/SpecialMethodNames.html)
 - chap5: [建構、初始與消滅](https://openhome.cc/Gossip/Python/NewInitDel.html)
+
+- chap5-2: [Python Singleton](https://openhome.cc/Gossip/Python/NewInitDel.html)
+
 - chap6: [繼承](https://openhome.cc/Gossip/Python/Inheritance.html)
 
 ### To be Done
